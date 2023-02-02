@@ -3,6 +3,7 @@
 This is a list of new technical vocabulary we come across during the React unit.
 
 ## Software and Computer Science Vocab
+
 - Encapsulation
 - Imperative Programming
 - Declarative Programming
@@ -11,17 +12,21 @@ This is a list of new technical vocabulary we come across during the React unit.
 - Runtime Environment
 
 ## JavaScript Ecosystem Vocab
+
 - NPM
-    - npx
+  - npx
 - create-react-app and react-scripts
 - ESM and CJS
 - Bundler
-    - Webpack
-    - Source Maps
+  - Webpack
+  - Source Maps
 
 ## React Vocab
+
 - JSX
 - Virtual DOM
 - React Component
 - React Element
 - React Root
+- React Smart Components
+- React Dumb Components
